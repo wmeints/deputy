@@ -16,8 +16,9 @@ to set this up you'll need to perform a couple of steps:
 If you're not familiar with this new feature, you learn about it on the
 [Nuget blog][nuget_blog].
 
-This can be quite a lot of work depending on your repository layout. Deputy
-makes this process less painful.
+Converting your project to centralized package versioning can be quite a lot
+of work. Deputy helps you to convert your project and automates the process
+of keeping your package versions up-to-date as well.
 
 ## Features
 
